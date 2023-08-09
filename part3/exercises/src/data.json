@@ -1,0 +1,32 @@
+[
+    {
+        "build":"RF",
+        "skill":"Rightous Fire",
+        "class":"Templar",
+        "acendency":"Inquizitor"
+    },
+    {
+        "build":"SRS",
+        "skill":"Summon Raging Spirit",
+        "class":"Witch",
+        "acendency":"Necro"
+    },
+    {
+        "build":"Totem",
+        "skill":"Frost Bolt",
+        "class":"Templar",
+        "acendency":"Herophant"
+    },
+    {
+        "build":"TS Deadeye",
+        "skill":"Tornado Shot",
+        "class":"Ranger",
+        "acendency":"Deadeye"
+    },
+    {
+        "build":"EA",
+        "skill":"Explosive Arrow",
+        "class":"Witch",
+        "acendency":"Elementalest"
+    }
+]
